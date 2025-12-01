@@ -1,5 +1,4 @@
 # astrapay
-Exam
 =======
 # Myapp
 npm install
